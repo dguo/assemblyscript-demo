@@ -10,7 +10,9 @@ Clone the repo, and run `npm install`.
 
 ## Usage
 
-Run `node benchmark`.
+Run `node benchmark` to benchmark the `isPrime` function.
+
+Run `npm run serve-demo` to start a server for the demo website.
 
 ## License
 
